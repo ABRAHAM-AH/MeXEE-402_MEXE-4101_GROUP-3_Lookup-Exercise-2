@@ -1,7 +1,6 @@
-# MeXEE-402_MEXE-4101_GROUP-3_Lookup-Exercise-2
-"Using Microsoft Excel to Practice Data Science along with its Functions"
+# <p align="center">MeXEE-402_MEXE-4101_GROUP-3_Lookup-Exercise-2</p>
+## <p align="center">"Using Microsoft Excel to Practice Data Science along with its Functions"</p>
 
-![Screenshot 2023-11-02 164141](https://github.com/ROXAS-NA/MeXEE-402_MEXE-4101_GROUP-3_Lookup-Exercise-2/assets/143602214/28da3d62-5e4d-4310-97d2-4672e9e30eca)
-![Screenshot 2023-11-02 152343](https://github.com/ROXAS-NA/MeXEE-402_MEXE-4101_GROUP-3_Lookup-Exercise-2/assets/143602214/a497c446-55f3-45a3-844e-b515a1ce6988)
+# <p align="center">![question](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Lookup-Exercise-2/assets/143601880/dd1f7fc3-0f7e-463d-922c-86db633ddc43)</p>
 
-
+# <p align="center">![datasets](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Lookup-Exercise-2/assets/143601880/6d49af3f-ca96-4e34-a30c-b1343ff05ffd)</p>
